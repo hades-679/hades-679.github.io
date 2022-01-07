@@ -52,7 +52,7 @@ header h1{
 nav{
     position: sticky;
     background-color: goldenrod;
-    padding: 20px;
+/*     padding: 20px; */
     top: 106px;
     z-index: 1;
 }
@@ -76,7 +76,7 @@ nav li a{
 }
 
 nav li a.join{
-    color: black;
+/*     color: black; */
 }
 main{
     max-width: 100%;
