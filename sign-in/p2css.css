@@ -11,6 +11,7 @@ body{
     font-family: ;
 }
 header{
+    
     background-color:black;
     position: sticky;
     padding: 20px;
@@ -21,7 +22,7 @@ header{
     left: 0;
 }
 header h1{
-    
+    font-family: Broadway;
     color: orange;
     border: 8px solid orange;
     padding: 6px 48px;
