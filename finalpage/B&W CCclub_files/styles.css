@@ -52,8 +52,8 @@ header h1{
 nav{
     position: sticky;
     background-color: goldenrod;
-/*     padding: 20px; */
-    top: 106px;
+    padding: 20px;
+    top: 85px;
     z-index: 1;
 }
 
@@ -64,7 +64,8 @@ nav ul{
 }
 
 nav li{
-    width: 25%;
+    
+    width: 20%;
     display: inline-block;
     font-size: 24px;
 }
@@ -120,7 +121,7 @@ article p{
     text-align: center;
     /*padding: 60px 20px;*/
     color: #f7edd7;
-}
+}  
 
 .join h2{
     font-size: 36px;
@@ -174,6 +175,10 @@ section.join p::first-letter{
 section.join p::selection{
     background-color: black;
     color:goldenrod;
+}
+
+.copyright{
+    float: right;
 }
 
 p::after{
